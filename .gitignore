@@ -1,0 +1,28 @@
+# Environment / Secrets
+.env
+.env.*
+!.env.example
+
+# Frontend
+node_modules/
+dist/
+.vite/
+
+# Backend
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# OS / IDE
+.DS_Store
+
+Backend/src/main/resources/application.properties
