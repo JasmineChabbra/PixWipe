@@ -239,11 +239,15 @@ PixWipe/
 
 ### Home Page
 
-![PixWipe Home](Project-Images/MainView%281%29.jpg)
+![PixWipe Home](Project-Images/MainView.png)
 
 ### Application UI
 
 ![PixWipe UI](Project-Images/FrontView%282%29.jpg)
+
+### Profile & Security
+
+![Jasmine Profile Details](Project-Images/jasmine-profile.png)
 
 ### Authentication
 
